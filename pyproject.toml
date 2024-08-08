@@ -3,7 +3,6 @@ name = "goit-pyweb-hw-05"
 version = "0.1.0"
 description = ""
 authors = ["SaitovMykyta <rassskoll@gmail.com>"]
-readme = "README.md"
 package-mode = false
 
 [tool.poetry.dependencies]
